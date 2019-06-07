@@ -1,0 +1,8 @@
+Feature: Smoke test of the reg form
+
+  Scenario: To submit the form by fillingthe data [90m# C:/Users/arun/eclipse-workspace/DemoStudentReg/src/main/java/Features/formfill.feature:2[0m
+    [33mGiven [0m[33mUser is in reg page[0m
+    [33mWhen [0m[33mtitle of the  page is Demoweb[0m
+    [33mThen [0m[33muser entyers the details[0m
+    [33mThen [0m[33muser clicks on submit button[0m
+    [33mAnd [0m[33muser is submited the form[0m

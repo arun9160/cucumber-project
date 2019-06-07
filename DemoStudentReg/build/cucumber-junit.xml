@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Smoke test of the reg form" name="To submit the form by fillingthe data" time="0">
+<skipped><![CDATA[Given User is in reg page...................................................undefined
+When title of the  page is Demoweb..........................................undefined
+Then user entyers the details...............................................undefined
+Then user clicks on submit button...........................................undefined
+And user is submited the form...............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>

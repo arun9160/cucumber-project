@@ -1,0 +1,82 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "To submit the form by fillingthe data",
+        "description": "",
+        "id": "smoke-test-of-the-reg-form;to-submit-the-form-by-fillingthe-data",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8144167501,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is in reg page",
+            "match": {
+              "location": "theReg_Stepdefination.user_is_in_reg_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 20040731999,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "title of the page is Demo web",
+            "match": {
+              "location": "theReg_Stepdefination.title_of_the_page_is_Demo_web()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1141866000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user entyers the details",
+            "match": {
+              "location": "theReg_Stepdefination.user_entyers_the_details()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1190311500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on submit button",
+            "match": {
+              "location": "theReg_Stepdefination.user_clicks_on_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4353612400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user is submited the form",
+            "match": {
+              "location": "theReg_Stepdefination.user_is_submited_the_form()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Smoke test of the reg form",
+    "description": "",
+    "id": "smoke-test-of-the-reg-form",
+    "keyword": "Feature",
+    "uri": "C:/Users/arun/eclipse-workspace/DemoStudentReg/src/main/java/Features/login.feature"
+  }
+]
